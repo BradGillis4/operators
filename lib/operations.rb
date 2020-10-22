@@ -14,6 +14,3 @@ end
 	
 
 
-puts not_safe?(39)
-puts not_safe?(45)
-puts not_safe?(61)
